@@ -12,6 +12,8 @@ namespace pis_1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Vjezba1");
             Console.WriteLine("Local edit");
+            Console.WriteLine("Server change");
+
             Console.Read();
         }
     }
